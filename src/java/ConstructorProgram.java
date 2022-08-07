@@ -4,7 +4,7 @@ public class ConstructorProgram
 {
 	public static void main(String[] args) 
 	{
-		ConstructorProgram X = ConstructorProgram();
+		ConstructorProgram X = new ConstructorProgram();
 	
 	}
          int a;
